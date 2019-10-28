@@ -216,7 +216,7 @@ NAMES = {
   "United Arab Emirates": "阿拉伯联合酋长国",
   "United Kingdom": "英国",
   "Uruguay": "乌拉圭",
-  "USA": "美国",
+  "USA": "USA",
   "Uzbekistan": "乌兹别克斯坦",
   "Vanuatu": "瓦努阿图",
   "Vatican City": "梵蒂冈",
